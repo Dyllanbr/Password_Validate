@@ -4,7 +4,7 @@
 
 de senha que valida o nível de segurança de senha fornecida pelo usuário. Uma senha que atenda às seguintes regras será considerada uma senha válida.
 
-📃 Regras
+### Regras
 
 Nove ou mais caracteres
 
@@ -31,7 +31,7 @@ IsValid("AbTp9!foA") // false
 IsValid("AbTp9 fok") // false
 IsValid("AbTp9!fok") // true
 
-🖱 Como utilizar
+### Como utilizar
 
 
 
