@@ -1,6 +1,6 @@
-🔐Password Validate
-Uma API para validar o nível de segurança da senha fornecida pelo usuário. 
-Será considerada uma senha válida aquela que seguir as regras abaixo.
+
+🔐API de validação de senha
+de senha que valida o nível de segurança de senha fornecida pelo usuário. Uma senha que atenda às seguintes regras será considerada uma senha válida.
 
 📃 Regras
 
