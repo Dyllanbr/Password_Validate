@@ -10,7 +10,7 @@ de senha que valida o nível de segurança de senha fornecida pelo usuário. Uma
 
 Nove ou mais caracteres
 
-Ao menos 1 dígito
+Ao menos 1 número
 
 Ao menos 1 letra minúscula
 
