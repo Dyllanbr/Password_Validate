@@ -1,10 +1,12 @@
 
- ### API de validação de senha!
+### 🔐 API de validação de senha!
 
 
 de senha que valida o nível de segurança de senha fornecida pelo usuário. Uma senha que atenda às seguintes regras será considerada uma senha válida.
 
-### Regras
+
+
+### 📃 Regras
 
 Nove ou mais caracteres
 
@@ -33,7 +35,7 @@ IsValid("AbTp9 fok") // false
 IsValid("AbTp9!fok") // true
 ```
 
-### Como executar
+### 🔨 Como executar
 
 1.Certifique-se de que você possui o Java e o Maven instalados em seu sistema.
 
@@ -75,7 +77,7 @@ Substitua sua-senha-aqui pela senha que deseja validar.
 Certifique-se de personalizar o nome do repositório, as portas e as configurações conforme necessário, de acordo com a estrutura do seu projeto.
 
 
-### Como utilizar
+###  🖱 Como utilizar
 ![api](https://github.com/Dyllanbr/Password_Validate/assets/125283848/c9b47f24-2fa2-4de7-8947-086e37d28c90)
 
 O seu uso é bem simples, ao iniciar a aplicação é exposta a URL (http://localhost:8080/?password) utilizando o método HTTP GET.
@@ -88,7 +90,7 @@ Para realizar a requisição você deve passar o seguinte body (formato: applica
 }
 ```
 
-### Tecnologias e ferramentas utilizadas
+### 💻 Tecnologias e ferramentas utilizadas
 
 Java 17
 
