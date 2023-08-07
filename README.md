@@ -18,9 +18,9 @@ Ao menos 1 caractere especial
 
 Considere como especial os seguintes caracteres: !@#$%^&*()-+
 
-Não possuir caracteres repetidos dentro do conjunto
+Não possuir caracteres repetidos dentro do conjunto:
 
-Exemplos:
+### Exemplos:
 
 IsValid("") // false  
 IsValid("aa") // false  
@@ -33,9 +33,10 @@ IsValid("AbTp9!fok") // true
 
 ### Como utilizar
 
+![api](https://github.com/Dyllanbr/Password_Validate/assets/125283848/c9b47f24-2fa2-4de7-8947-086e37d28c90)
 
 
 
-💻 Tecnologias e ferramentas utilizadas
+### Tecnologias e ferramentas utilizadas
 Java 17
 Java Spring Boot
