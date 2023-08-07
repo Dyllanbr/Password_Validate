@@ -19,3 +19,12 @@ IsValid("AbTp9!foo") // false
 IsValid("AbTp9!foA") // false
 IsValid("AbTp9 fok") // false
 IsValid("AbTp9!fok") // true
+
+🖱 Como utilizar
+
+
+
+
+💻 Tecnologias e ferramentas utilizadas
+Java 17
+Java Spring Boot
