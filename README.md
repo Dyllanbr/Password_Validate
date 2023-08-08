@@ -47,7 +47,7 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 Navegue até o diretório do projeto:
 ```
-Navegue até o diretório do projeto:
+cd nome-do-repositorio
 
 ```
 Compile o projeto usando o Maven:
